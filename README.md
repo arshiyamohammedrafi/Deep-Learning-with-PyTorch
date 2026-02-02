@@ -1,5 +1,3 @@
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/960d74fb-d6e7-4f25-b87e-6b559ec6dae3" /># PyTorch Basics Exercises
-
 #### Name: ARSHIYA M
 #### Register Number: 212224040029
 
