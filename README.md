@@ -1,4 +1,7 @@
-# PyTorch Basics Exercises
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/960d74fb-d6e7-4f25-b87e-6b559ec6dae3" /># PyTorch Basics Exercises
+
+#### Name: ARSHIYA M
+#### Register Number: 212224040029
 
 ## AIM:
 Write a Python program using PyTorch that performs the following tasks:
@@ -12,9 +15,6 @@ Write a Python program using PyTorch that performs the following tasks:
 
 
 ### Step 1:
-
-#### Name: Hemachandiran J
-#### Register Number: 212224040113
 
 Perform standard imports
 - Import `torch` and `NumPy`.
